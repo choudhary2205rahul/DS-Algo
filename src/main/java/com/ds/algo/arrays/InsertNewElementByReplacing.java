@@ -1,5 +1,6 @@
 package com.ds.algo.arrays;
 
+// Date - 7-05-2022
 public class InsertNewElementByReplacing {
 
     public static int[] updateArray(int[] data, int element, int index) {

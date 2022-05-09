@@ -1,5 +1,6 @@
 package com.ds.algo.arrays;
 
+// Date - 9-05-2022
 public class CheckArrayIsSorted {
 
     public static boolean checkForSorted(int[] data) {

@@ -1,5 +1,6 @@
 package com.ds.algo.arrays;
 
+// Date - 7-05-2022
 public class DeleteElementFromArray {
 
     public static int[] deleteFromArray(int[] data, int element) {

@@ -1,5 +1,6 @@
 package com.ds.algo.arrays;
 
+// Date - 7-05-2022
 public class FindIndexOfFirstOccurrenceOfElementUnsortedArray {
 
     public static int findIndex(int[] data, int element) {

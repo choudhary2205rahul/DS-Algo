@@ -1,5 +1,6 @@
 package com.ds.algo.arrays;
 
+// Date - 8-05-2022
 public class SmallestElementInArray {
 
     public static int findSmallest(int[] data) {
